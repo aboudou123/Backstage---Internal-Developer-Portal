@@ -900,16 +900,7 @@ Private Notizen während des Lernens erfassen.
 
 ---
 
-## Study Group
 
-### Backstage – Internes Developer Portal
-
-Baue ein internes Developer Portal mit Backstage, um die Developer Experience zu verbessern. Lerne das React Framework durch die Entwicklung von Backstage Plugins. Die Teilnehmer kennen bereits Vue.js.
-
-Erstelle Service Catalog, Dokumentation und Templates für TaskFlow.
-# Interne Developer Portals und Backstage-Überblick
-
-Entdecke, wie interne Developer Portals die Developer Experience und Platform-Engineering-Workflows verbessern. Lerne die Backstage-Architektur kennen, ihre Ursprünge bei Spotify und wie Backstage Self-Service-Plattformen für das TaskFlow-Anwendungsökosystem ermöglicht.
 
 ---
 
@@ -1001,7 +992,9 @@ Backstage bietet vier zentrale Funktionen.
 
 ## Backstage-Architektur
 
-> **Abbildung:** Backstage-Drei-Schichten-Architektur mit Frontend, Backend, Datenbank und Plugin Ecosystem.
+<img width="577" height="214" alt="image" src="https://github.com/user-attachments/assets/dfe2fd5c-f487-403f-9b76-d3e802036772" />
+
+**Abbildung:** Backstage-Drei-Schichten-Architektur mit Frontend, Backend, Datenbank und Plugin Ecosystem.
 
 Backstage basiert auf drei Hauptschichten.
 
