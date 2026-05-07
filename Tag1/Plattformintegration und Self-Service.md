@@ -3141,6 +3141,8 @@ Dieses Wissen bereitet dich darauf vor, in der nächsten Lektion das TaskFlow Da
 
 ## Backstage Plugin-Architektur
 
+<img width="555" height="305" alt="image" src="https://github.com/user-attachments/assets/334f755e-f9e2-4f89-b4c2-08435e0871bd" />
+
 > **Abbildung:** Backstage Plugin Architecture — Frontend-, Backend- und Common-Library-Plugins mit Kommunikationskanälen.
 
 Backstage Plugins folgen einer modularen Architektur.
