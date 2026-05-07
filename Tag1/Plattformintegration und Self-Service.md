@@ -1892,6 +1892,7 @@ Services zeigen zum Beispiel Deployment-Informationen und API Endpoints. Website
 ---
 
 ## TaskFlow-Komponenten registrieren
+<img width="567" height="266" alt="image" src="https://github.com/user-attachments/assets/1356c494-48fe-455a-be59-6f865e9a64ca" />
 
 > **Abbildung:** TaskFlow Catalog Entity Hierarchy — Domain, System, Components, Resources und API-Beziehungen.
 
