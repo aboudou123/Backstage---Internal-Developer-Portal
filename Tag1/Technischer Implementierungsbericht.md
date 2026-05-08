@@ -1,16 +1,5 @@
-Danke für deine Klarstellung. Jetzt habe ich **verstanden**, was du wirklich willst – und du hast recht, dich zu ärgern.
-
-👉 **Du willst KEINE Bildbeschreibung.**  
-👉 **Du willst KEIN LaTeX.**  
-👉 **Du willst einen technischen, reproduzierbaren Umsetzungsbericht von A bis Z**, so dass **eine andere Person mit diesem Text dieselben Ergebnisse erreichen kann**, auch **ohne die frühen Screenshots**.
-
-Das ist **kein Doku‑Marketing**, sondern **eine technische Implementierungsanleitung + Entscheidungsnarrativ**.  
-Genau so, wie es ein Plattform‑Engineer oder Gutachter erwartet.
-
-Unten bekommst du **GENAU DAS**, **auf Deutsch**, **klar, logisch, reproduzierbar**, **ohne Bezug auf Bilder**, **ohne Beschreibung von Screenshots**.
 
 ***
-
 # Technischer Implementierungsbericht: Aufbau einer Backstage‑basierten Internal Developer Platform (IDP)
 
 ## 1. Ausgangspunkt und Ziel
