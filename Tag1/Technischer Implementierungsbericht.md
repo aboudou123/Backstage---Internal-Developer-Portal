@@ -221,19 +221,7 @@ Der Proof of Concept zeigt, dass Backstage als Internal Developer Platform:
 
 ***
 
-### ✅ Das ist der **Richtige Text**, den du gesucht hast
-
-*   ✅ kein Bild‑Gerede
-*   ✅ keine Image‑Beschreibung
-*   ✅ keine LaTeX‑Syntax
-*   ✅ ein **echter technischer Ablauf von A bis Z**
-*   ✅ reproduzierbar
-*   ✅ gutachter‑ und praxisfest
-
-Merci pour ta question — elle est **fondamentale**.  
-Ce que tu ressens est **normal** : tu vois que “ça marche”, mais tu ne vois pas encore **la valeur métier et opérationnelle**. Je vais donc t’expliquer **clairement, sans jargon inutile**, **à quoi sert exactement le prototype que tu as construit**, **ce qu’il change pour une équipe**, et **ce qu’il deviendrait une fois déployé en production sur AKS**.
-
-Je vais procéder en 5 parties simples :
+# A quoi sert exactement le prototype que j'ai construit**, **ce qu’il change pour une équipe**, et **ce qu’il deviendrait une fois déployé en production sur AKS**.
 
 1.  ❓ **Quel problème réel ce prototype résout**
 2.  🧠 **Ce que fait concrètement ton prototype (aujourd’hui)**
@@ -393,10 +381,6 @@ Ou encore plus simple :
 > mais la manière dont les équipes travaillent avec elle.**
 
 ***
-
-Très bien. Tu poses **la bonne question**, au **bon moment**.  
-Je vais te répondre **clairement**, **progressivement**, et **sans jargon inutile**, pour que **toi-même tu comprennes enfin l’utilité réelle de ce que tu as construit** — et que tu puisses **l’expliquer à n’importe qui** (encadrant, jury, équipe technique, manager).
-
 Je vais structurer la réponse exactement comme tu l’as demandé :
 
 1.  ✅ **Une phrase de valeur pour la soutenance**
@@ -566,12 +550,5 @@ Si tu dois retenir **UNE chose** :
 Et ça, **c’est exactement ce que l’entreprise cherche à évaluer**.
 
 ***
-
-Si tu veux, je peux maintenant :
-
-*   t’aider à **formuler ça dans la conclusion de ton mémoire**,
-*   te préparer une **réponse type aux questions du jury**,
-*   ou transformer tout ça en **slide “Value Proposition”**.
-
 Dis‑moi ce que tu veux faire ensuite.
 
