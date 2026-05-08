@@ -7,8 +7,6 @@ Nach 12 Wochen intensiver Arbeit mit einzelnen DevOps-Werkzeugen wird ein neues 
 
 ## Lernmaterial
 
-Willkommen in Woche 13.
-
 In den vergangenen 12 Wochen hast du ein umfangreiches Toolkit aufgebaut:
 
 * Linux-Grundlagen
